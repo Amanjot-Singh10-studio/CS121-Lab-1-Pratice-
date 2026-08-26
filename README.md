@@ -1,1 +1,1 @@
-# CS121-Lab-1-Pratice-
+# CS121-Lab1-Project-
